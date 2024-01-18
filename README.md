@@ -29,3 +29,5 @@ Introducing our Computer Science TA Help Queue – your go-to solution for seaml
 
 
 ## Description
+startup/Help_Queue_Website_(Student_View).jpg
+startup/Help_Queue_Website_(TA_View).jpg
