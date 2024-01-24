@@ -1,9 +1,9 @@
 # 260-Notes ([markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax))
 
 ## The Console
-### ssh 
+### SSH 
 ```
-ssh -i ~/desktop/260-website.pem ubuntu@18.206.5.85
+ssh -i ~/desktop/260-website.pem ubuntu@bestwebsight.click
 ```
 ### Executing commands
 
