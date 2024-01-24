@@ -50,3 +50,31 @@ There are also keystrokes that have special meaning in the console.
 
 - `CTRL-R` - Use type ahead to find previous commands
 - `CTRL-C` - Kill the currently running command
+
+## Vim
+## Command Mode
+#### The Basics of Moving in Vim
+- **h** moves the cursor one character to the left.
+- **j** moves the cursor down one line.
+- **k** moves the cursor up one line.
+- **l** moves the cursor one character to the right.
+- **0** moves the cursor to the beginning of the line.
+- **$** moves the cursor to the end of the line.
+- **w** moves forward one word.
+- **b** moves backward one word.
+- **G** moves to the end of the file.
+- **gg** moves to the beginning of the file.
+- **`.** moves to the last edit.
+
+Here’s a handy tip: prefacing a movement command with a number will execute that movement multiple times.
+
+#### Editing in Vim
+- **u** will undo the last operation.
+- **Ctrl-r** will redo the last undo.
+- **x** deletes the character that the cursor is on.
+- **d** starts the delete operation.
+- **dw** will delete a word.
+- **d0** will delete to the beginning of a line.
+- **d$** will delete to the end of a line.
+- **dgg** will delete to the beginning of the file.
+- **dG** will delete to the end of the file.
