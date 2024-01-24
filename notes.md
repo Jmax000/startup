@@ -80,7 +80,7 @@ Here’s a handy tip: prefacing a movement command with a number will execute th
 - **dG** will delete to the end of the file.
 
 ### Searching and Replacing
-- **/_[text]_** search for text in the document, going forward.
+- **/_text_** search for text in the document, going forward.
 - **n** move the cursor to the next instance of the text from the last search. This will wrap to the beginning of the document.
 - **N** move the cursor to the previous instance of the text from the last search.
 - **?text** search for text in the document, going backwards.
