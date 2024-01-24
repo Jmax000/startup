@@ -1,7 +1,10 @@
 # 260-Notes ([markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax))
 
 ## The Console
-
+### ssh 
+```
+ssh -i ~/desktop/260-website.pem ubuntu@18.206.5.85
+```
 ### Executing commands
 
 - **echo** - Output the parameters of the command
@@ -47,11 +50,3 @@ There are also keystrokes that have special meaning in the console.
 
 - `CTRL-R` - Use type ahead to find previous commands
 - `CTRL-C` - Kill the currently running command
-
-
-
-
-
-ssh -i ~/desktop/260-website.pem ubuntu@18.206.5.85
-
-Remember how to use 
